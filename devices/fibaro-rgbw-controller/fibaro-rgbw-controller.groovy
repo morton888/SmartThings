@@ -333,9 +333,9 @@ metadata {
             "switch",
 
             // RGBW Channels:
-            "switchRed","levelRedSlider", "levelRedTile",
-            "switchGreen","levelGreenSlider", "levelGreenTile",
-            "switchBlue","levelBlueSlider", "levelBlueTile",
+            //"switchRed","levelRedSlider", "levelRedTile",
+            //"switchGreen","levelGreenSlider", "levelGreenTile",
+            //"switchBlue","levelBlueSlider", "levelBlueTile",
             "switchWhite","levelWhiteSlider", "levelWhiteTile",
 
             // OUT Channels:
@@ -351,15 +351,15 @@ metadata {
             //"switchCh4ReadOnly", "ch4Label", "levelCh4Tile",
 
             // Energy and Power:
-            "powerLabel", "power", "refresh", "lastReset", "energy",
+            //"powerLabel", "power", "refresh", "lastReset", "energy",
 
             // Built-in Program Shortcuts (these only work if the channels are RGBW):
-            "fireplace", "storm", "deepFade","liteFade", "police",
+            //"fireplace", "storm", "deepFade","liteFade", "police",
 
             // Color Shortcut Tiles (these only work if channels are mapped to red/green/blue/white):
-            "red","green","blue",
-            "orange","yellow","cyan",
-            "magenta","pink","purple",
+            //"red","green","blue",
+            //"orange","yellow","cyan",
+            //"magenta","pink","purple",
 
             // The Test Tile:
             //"test"
